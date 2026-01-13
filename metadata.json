@@ -1,0 +1,9 @@
+{
+  "name": "PsycheFlow SaaS",
+  "description": "A comprehensive psychologist practice management platform featuring automated scheduling, AI-assisted clinical documentation, and client outcome tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
